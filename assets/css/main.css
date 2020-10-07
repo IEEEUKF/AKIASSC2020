@@ -2201,11 +2201,12 @@ Cover
   padding: 170px 0;
 }
 .inner_cover .inner_cover_content h3 {
-  text-transform: capitalize;
+  text-transform: none;
   color: #ffffff;
   font-size: 48px;
   font-weight: 500;
 }
+
 
 .breadcrumbs {
   position: absolute;
